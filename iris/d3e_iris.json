@@ -1,6 +1,7 @@
 {
   "version": 1,
-  "documentation": "This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\n",
+  "notes": "",
+  "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "keebio/iris/rev5",
   "keymap": "d3e_iris",
   "layout": "LAYOUT",
@@ -49,7 +50,7 @@
       "KC_V",
       "KC_B",
       "MO(2)",
-      "KC_BTN3",
+      "KC_BTN2",
       "KC_N",
       "KC_M",
       "KC_COMM",
@@ -61,7 +62,7 @@
       "MO(1)",
       "KC_BTN1",
       "KC_SPC",
-      "KC_BTN5"
+      "KC_BTN3"
     ],
     [
       "KC_GRV",
@@ -180,6 +181,5 @@
       "KC_PDOT"
     ]
   ],
-  "author": "",
-  "notes": ""
+  "author": ""
 }
