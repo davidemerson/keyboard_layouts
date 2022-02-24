@@ -108,7 +108,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_NO",
-      "KC_NO",
+      "KC_BTN2",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -118,7 +118,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_BTN1",
       "KC_NO",
       "KC_NO"
     ],
@@ -166,7 +166,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_BTN2",
       "KC_P1",
       "KC_P2",
       "KC_P3",
@@ -176,7 +176,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_BTN1",
       "KC_P0",
       "KC_PDOT"
     ]

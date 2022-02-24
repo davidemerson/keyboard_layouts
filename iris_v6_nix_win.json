@@ -2,7 +2,7 @@
   "version": 1,
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "keebio/iris/rev6",
-  "keymap": "keebio_iris_rev6_layout_mine",
+  "keymap": "iris_v6_nix_win",
   "layout": "LAYOUT",
   "layers": [
     [
@@ -107,7 +107,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_NO",
-      "KC_NO",
+      "KC_BTN2",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -117,7 +117,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_BTN1",
       "KC_NO",
       "KC_NO"
     ],
@@ -165,7 +165,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_BTN2",
       "KC_P1",
       "KC_P2",
       "KC_P3",
@@ -175,7 +175,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_BTN1",
       "KC_P0",
       "KC_PDOT"
     ]
