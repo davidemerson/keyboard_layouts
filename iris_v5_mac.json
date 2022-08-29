@@ -1,7 +1,6 @@
 {
   "version": 1,
-  "notes": "Iris Keyboard with Ploopy Nano Trackball",
-  "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
+  "notes": "Iris v5 Keyboard for MacOS",
   "keyboard": "keebio/iris/rev5",
   "keymap": "iris_v5_mac",
   "layout": "LAYOUT",
@@ -50,7 +49,7 @@
       "KC_V",
       "KC_B",
       "MO(2)",
-      "KC_BTN2",
+      "LCTL(KC_LEFT)",
       "KC_N",
       "KC_M",
       "KC_COMM",
@@ -60,9 +59,9 @@
       "KC_LCTL",
       "KC_MINS",
       "MO(1)",
-      "KC_BTN1",
+      "LCTL(KC_RGHT)",
       "KC_SPC",
-      "KC_BTN3"
+      "KC_RALT"
     ],
     [
       "KC_GRV",
@@ -107,7 +106,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_NO",
+      "KC_TRNS",
       "KC_BTN2",
       "KC_TRNS",
       "KC_TRNS",
@@ -116,11 +115,11 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_LALT",
-      "KC_NO",
+      "KC_TRNS",
+      "KC_TRNS",
       "KC_BTN1",
-      "KC_NO",
-      "KC_NO"
+      "KC_TRNS",
+      "KC_TRNS"
     ],
     [
       "RGB_TOG",
@@ -166,7 +165,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_BTN2",
+      "KC_NO",
       "KC_NO",
       "KC_P0",
       "KC_PDOT",
@@ -176,7 +175,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_BTN1",
+      "KC_NO",
       "KC_NO",
       "KC_NUM"
     ]
